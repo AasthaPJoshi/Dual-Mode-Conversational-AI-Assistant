@@ -3,7 +3,7 @@
 A local-first, privacy-respecting conversational AI system that combines a **Retrieval-Augmented Generation (RAG)** pipeline with a **standard LLM chat interface**, running entirely on-device via [Ollama](https://ollama.ai). Conversations are streamed in real time to a clean Flask-powered web dashboard, with optional text-to-speech output and voice input support.
 
 ---
-
+    
 ## Table of Contents
 
 - [Overview](#overview)
